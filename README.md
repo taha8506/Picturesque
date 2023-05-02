@@ -2,6 +2,12 @@
 
 Create HDR images from LDR inputs:
 
+![Picturesque](picturesqueexample.png)
+
+Output examples
+
+![Outputs](picturesqueexample2.png)
+
 Training and inference code for:
 
 _ExpandNet: A Deep Convolutional Neural Network for High Dynamic Range Expansion from Low Dynamic Range Content_
